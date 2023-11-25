@@ -32,7 +32,7 @@ $ whois ip-public
 ## Implementasi fungsi grep pada perintah WHOIS
 grep adalah utilitas baris perintah pada sistem operasi Unix dan sejumlah sistem operasi berbasis Unix (termasuk Linux) yang digunakan untuk mencari dan memfilter teks dalam file atau output dari perintah lainnya. Fungsi utama dari grep adalah mencocokkan pola teks di dalam suatu file atau output dan menampilkan baris yang sesuai dengan pola tersebut, untuk knowledge base kali ini kami berfokus pada fungsi grep untuk memfilter output dari perintah lain (WHOIS) dengan menggunakan pipa (|).
 
-Implementasi fungsi grep pada perintah WHOIS ini diperlukan untuk mempermudah kita mengetahui informasi penting dari hasil whois yang bisanya menampilkan banyak informasi dan berikut contoh implementasi berserta penjabaran dari perintahnya:
+Implementasi fungsi grep pada perintah WHOIS ini diperlukan untuk mempermudah kita mengetahui informasi penting dari hasil whois yang bisanya menampilkan banyak informasi dan berikut contoh implementasi berserta hasil dari perintahnya:
 
 1. Mengetahui Informasi Registrar Domain
 
